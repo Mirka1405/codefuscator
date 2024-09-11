@@ -4,7 +4,7 @@ Do you want your friends to look at your code but prevent them from stealing it?
 # How to use
 Download the exe from releases, then open cmd; I'm sure you know how to do that.
 
-Arguments: codefuscator <input file> <output file> <options>  
+Arguments: codefuscator \<input file\> \<output file\> \<options\>  
 options may contain any combination of the following:  
 g - replace semicolons with greek question marks  
 z - randomly place ZWSP characters  
